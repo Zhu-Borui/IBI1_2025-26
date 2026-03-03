@@ -1,4 +1,4 @@
 Hello, my name is Borui.
-I like drinking tea and eating chocolate biscuits.
-I am enjoying teaching IBI1 in person again 
+I like watching bird.
+I am enjoying learning IBI1 in person with Dr.Young.
 I am happy that I can push my repo from Visual Studio Code to GitHub
