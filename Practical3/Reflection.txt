@@ -1,1 +1,3 @@
-It's a very interesting try
+It's a very interesting try.
+I gain deeper insight into how git and git hub are used.
+I have made my first webpage and it is excited.
