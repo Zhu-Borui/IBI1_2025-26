@@ -1,0 +1,17 @@
+Overall, I found this practical quite difficult, but also very interesting and rewarding.
+Moving from theory about disease spread to actually writing Python code made the ideas much clearer.
+
+The basic SIR model was not too hard, because the maths could be translated into simple Python loops. 
+Plotting the results was also familiar.
+However, the spatial 2D model was much harder. 
+I had to deal with edge cases (cells on the boundary) and make sure the grid updated at the same time, 
+which was confusing and needed careful planning.
+
+I liked the vaccination part. 
+It was interesting to see how increasing vaccination made the infection curve smaller. 
+It clearly showed how herd immunity works, which made the effort feel worthwhile.
+The 2D model was also very interesting.
+
+I learned the difference between deterministic and probabilistic models. 
+Using randomness made the results more realistic and different each time. 
+I also improved my understanding of using 2D arrays and visualising data with heat maps.
