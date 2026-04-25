@@ -1,0 +1,11 @@
+Question: 
+How has the relationship between the DALYs in China and the UK changed over time? Are they becoming more similar or less similar?
+
+Line number: 
+The code to answer this question starts on line 77 in the dalys.py file.
+
+Discussion:
+In 1990, China’s disease burden (DALYs over 41,000) was much higher than the UK’s (around 27,000).
+Over the next 30 years, China’s DALYs declined sharply, reflecting improvements in healthcare, the economy, and living standards.
+In contrast, the UK’s DALYs decreased slightly but remained relatively stable.
+As a result, the gap narrowed steadily. By 2019, the disease burdens of China and the UK were very similar, nearly closing the large gap seen in the 1990s.
